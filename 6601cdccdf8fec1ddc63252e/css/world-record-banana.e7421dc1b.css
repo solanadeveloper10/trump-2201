@@ -2301,9 +2301,9 @@ textarea.w-select {
   grid-row-gap: 2rem;
   text-align: center;
   flex-direction: column;
-  max-width: 100rem;
+  /* max-width: 100rem; */
   margin: 10vh auto;
-  font-size: 20vw;
+  /* font-size: 20vw; */
   line-height: .8;
   display: flex;
   position: relative;
@@ -2311,11 +2311,10 @@ textarea.w-select {
 
 .background {
   z-index: 0;
-  background-color: #ffd314;
+  background-color: #333;
   background-image: url("../white_house.png");
   background-repeat: no-repeat;
   background-position: 0 0;
-  /* background-size: 40rem; */
   background-size: cover;
   position: fixed;
   top: 0%;
@@ -2577,7 +2576,7 @@ textarea.w-select {
 
   .font-upper.font-sub.font-7,
   .font-larger {
-    color: #333;
+    /* color: #333; */
   }
 
   .social {
@@ -2635,7 +2634,7 @@ textarea.w-select {
   }
 }
 
-@media screen and (max-width: 479px) {
+@media screen and (max-width: 767.98px) {
   .s-top-banner {
     height: auto;
     max-height: none;
