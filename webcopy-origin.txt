@@ -1,0 +1,92 @@
+Uri: https://assets-global.website-files.com/6601cdccdf8fec1ddc63252e/66020ebc3aec28be45d71735_2700893_8.svg
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\6601cdccdf8fec1ddc63252e\66020ebc3aec28be45d71735_2700893_8.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6601cdccdf8fec1ddc63252e/66020ebc3aec28be45d71736_fav.png
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\6601cdccdf8fec1ddc63252e\66020ebc3aec28be45d71736_fav-1.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/6601cdccdf8fec1ddc63252e/6602102689f9b4c1f0ad9928_ba.svg
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\6601cdccdf8fec1ddc63252e\6602102689f9b4c1f0ad9928_ba.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6601cdccdf8fec1ddc63252e/css/world-record-banana.e7421dc1b.css
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\6601cdccdf8fec1ddc63252e\css\world-record-banana.e7421dc1b.css
+Content Type: text/css
+
+Uri: https://assets-global.website-files.com/6601cdccdf8fec1ddc63252e/js/world-record-banana.dda50f2b2.js
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\6601cdccdf8fec1ddc63252e\js\world-record-banana.dda50f2b2.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/studio-freight/lenis@1.0.0/bundled/lenis.js
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\gh\studio-freight\lenis@1.0.0\bundled\lenis.js
+Content Type: application/javascript
+
+Uri: https://cdn.prod.website-files.com/6601cdccdf8fec1ddc63252e/66020ebc3aec28be45d71736_fav.png
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\6601cdccdf8fec1ddc63252e\66020ebc3aec28be45d71736_fav.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6601cdccdf8fec1ddc63252e/66020ec30571724d0d5abaef_Frame-4.svg
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\6601cdccdf8fec1ddc63252e\66020ec30571724d0d5abaef_Frame-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6601cdccdf8fec1ddc63252e/66020eff44da24aabedc4c23_banana.png
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\6601cdccdf8fec1ddc63252e\66020eff44da24aabedc4c23_banana.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6601cdccdf8fec1ddc63252e/660230f6cf9d83a4217a7c35_twitter.svg
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\6601cdccdf8fec1ddc63252e\660230f6cf9d83a4217a7c35_twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6601cdccdf8fec1ddc63252e/660231199c65ab3822045368_dextools_logo_full_dark.svg
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\6601cdccdf8fec1ddc63252e\660231199c65ab3822045368_dextools_logo_full_dark.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6601cdccdf8fec1ddc63252e/6602313f8b5ec838545e739b_logo_sol-6852826e32eead11f59077e5bbdeae0cbca6d6fda2f4944fd97200601865afbb.svg
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\6601cdccdf8fec1ddc63252e\6602313f8b5ec838545e739b_logo_sol-6852826e32eead11f59077e5bbdeae0cbca6d6fda2f4944fd97200601865afbb.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6601cdccdf8fec1ddc63252e/660231508b5ec838545e82ae_solana-solana-scan-blue.5ffb9996cf489a8d70319d8417591e9b.svg
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\6601cdccdf8fec1ddc63252e\660231508b5ec838545e82ae_solana-solana-scan-blue.5ffb9996cf489a8d70319d8417591e9b.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6601fca54cf5c159059b74f2/6601fda9a78008a54eb448ba_BANANA (1) (1).png
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\6601fca54cf5c159059b74f2\6601fda9a78008a54eb448ba_BANANA (1) (1).png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\ajax\libs\gsap\3.11.5\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\ajax\libs\gsap\3.11.5\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6601cdccdf8fec1ddc63252e
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://jsrks7.csb.app/script.js
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\script.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/splitting@1.1.0/dist/splitting-cells.css
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\splitting@1.1.0\dist\splitting-cells.css
+Content Type: text/css
+
+Uri: https://unpkg.com/splitting@1.1.0/dist/splitting.css
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\splitting@1.1.0\dist\splitting.css
+Content Type: text/css
+
+Uri: https://unpkg.com/splitting@1.1.0/dist/splitting.min.js
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\splitting@1.1.0\dist\splitting.min.js
+Content Type: application/javascript
+
+Uri: https://use.typekit.net/hvk2jal.js
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\hvk2jal.js
+Content Type: text/javascript
+
+Uri: https://www.worldrecordbanana.com/
+File Name: C:\Downloaded Web Sites\www.worldrecordbanana.com\index.htm
+Content Type: text/html
+
